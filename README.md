@@ -143,9 +143,16 @@ Only .env.example is committed to the repository.
 
 Never commit API keys, passwords, tokens, or other secrets to GitHub.
 
+## Data Pipeline Progress
+External APIs → Extract → Transform → Pandas DataFrame → Timestamped Portfolio Snapshot
+
+The timestamped DataFrame will subsequently be stored in SQLite for historical analysis.
+
 
 ## Author
 
 #####
 Python | ETL | Data Analysis | APIs | SQL | Software Development
+
+
 
