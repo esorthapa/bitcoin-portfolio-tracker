@@ -1,0 +1,3 @@
+asset,quantity,price_usd,price_aud,value_aud,allocation_pct,snapshot_time
+AAPL,15.0,338.4,481.88,7228.22,19.62,2026-09-30 08:57:41.357647+00:00
+Bitcoin,0.25,,118471.0,29619.75,80.38,2026-09-30 08:57:41.357647+00:00
